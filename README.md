@@ -23,7 +23,7 @@
 
 <div align="center" style="display: flex; justify-content: center;">
   <a href="https://github.com/CaparicaLeo">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=CaparicaLeo&show_icons=true&theme=shadow_red&include_all_commits=false&count_private=true&border_color=00000000&bg_color=9500"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=CaparicaLeo&show_icons=true&theme=shadow_red&include_all_commits=false&count_private=false&border_color=00000000&bg_color=9500"/>
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaparicaLeo&layout=compact&langs_count=7&include_all_commits=true&theme=shadow_red&border_color=00000000&bg_color=9500"/>
   </a>
 </div>
